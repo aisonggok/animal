@@ -1,6 +1,5 @@
 streamlit
-orange3
-orange3-imageanalytics
+torch
+torchvision
 pillow
-numpy
 scikit-learn==1.5.2
