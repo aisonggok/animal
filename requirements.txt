@@ -1,0 +1,6 @@
+streamlit
+orange3
+orange3-imageanalytics
+pillow
+numpy
+scikit-learn==1.5.2
